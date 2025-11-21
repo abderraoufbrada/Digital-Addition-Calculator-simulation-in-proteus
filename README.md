@@ -46,10 +46,18 @@ This simulation demonstrates basic digital logic design and how encoders, adders
 ---
 
 ## How to Run
-1. Open **Proteus**.  
-2. Load `https://github.com/abderraoufbrada/Digital-Addition-Calculator-simulation-in-proteus/blob/main/Digital%20Addition%20Calculator.pdsprj`.  
-3. Run the simulation.  
-4. Select the input numbers (1–3) and observe the result on the LED 7-segment display.  
+1. Download or clone the repository to your computer.  
+   ```bash
+   git clone https://github.com/abderraoufbrada/Digital-Addition-Calculator-simulation-in-proteus.git
+2. Open Proteus on your computer.
+
+3. Load the project file from the local folder:
+
+Digital-Addition-Calculator-simulation-in-proteus/Digital Addition Calculator.pdsprj
+
+4. Run the simulation.
+
+5. Select input numbers (1–3) and observe the result on the LED 7-segment display.
 
 ---
 
