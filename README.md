@@ -33,14 +33,6 @@ This simulation demonstrates basic digital logic design and how encoders, adders
 - Displays results on a 7-segment LED display.  
 - Fully simulated in Proteus for demonstration purposes.  
 
----
-
-## Project Files
-| File | Description |
-|------|-------------|
-| `Digital-Addition-Calculator.proj` | Proteus simulation project file. |
-| `Digital-Addition-Calculator.pdf` | Presentation and project documentation. |
-| `images/` | Folder containing screenshots and project photos. |
 
 
 ---
@@ -56,7 +48,7 @@ This simulation demonstrates basic digital logic design and how encoders, adders
 
 ## How to Run
 1. Open **Proteus**.  
-2. Load `Digital-Addition-Calculator.proj`.  
+2. Load `https://github.com/abderraoufbrada/Digital-Addition-Calculator-simulation-in-proteus/blob/main/Digital%20Addition%20Calculator.pdsprj`.  
 3. Run the simulation.  
 4. Select the input numbers (1–3) and observe the result on the LED 7-segment display.  
 
@@ -82,5 +74,3 @@ Detailed project explanation is in the PDF:
 
 ---
 
-## License
-This project is released under the MIT License. You can use, modify, and share it for educational purposes.
