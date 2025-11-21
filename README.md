@@ -63,7 +63,7 @@ Digital Addition Calculator.pdsprj
 ## Presentation
 Detailed project explanation is in the PDF:  
 
-[Digital Addition Calculator Presentation](Digital Addition Calculator.pdsprj)
+https://github.com/abderraoufbrada/Digital-Addition-Calculator-simulation-in-proteus/blob/main/Digital%20Addition%20Calculator%20-%20Copy.pdf
 
 ---
 
