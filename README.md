@@ -5,12 +5,11 @@
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Features](#features)
-3. [Project Files](#project-files)
-4. [How It Works](#how-it-works)
-5. [How to Run](#how-to-run)
-6. [Screenshots](#screenshots)
-7. [Presentation](#presentation)
-8. [Technologies Used](#technologies-used)
+3. [How It Works](#how-it-works)
+4. [How to Run](#how-to-run)
+5. [Screenshots](#screenshots)
+6. [Presentation](#presentation)
+7. [Technologies Used](#technologies-used)
 
 
 ---
@@ -63,7 +62,7 @@ This simulation demonstrates basic digital logic design and how encoders, adders
 ## Presentation
 Detailed project explanation is in the PDF:  
 
-[Digital Addition Calculator Presentation](https://github.com/abderraoufbrada/Digital-Addition-Calculator-simulation-in-proteus/blob/main/Digital%20Addition%20Calculator%20-%20Copy.pdf)
+[Digital Addition Calculator Presentation](Digital Addition Calculator.pdsprj)
 
 ---
 
